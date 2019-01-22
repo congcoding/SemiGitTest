@@ -190,7 +190,7 @@ function goToPrdList(obj){
 	<div id="container">
 		<header>
 		<div id="title" onclick="location.href ='<%=request.getContextPath()%>/'">
-			<h1>SemiGitTest : push Test1</h1>
+			<h1>SemiGitTest : push Test1 + @@@</h1>
 		</div>
 					
 			<!-- 로그인 폼 -->

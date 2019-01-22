@@ -190,7 +190,7 @@ function goToPrdList(obj){
 	<div id="container">
 		<header>
 		<div id="title" onclick="location.href ='<%=request.getContextPath()%>/'">
-			<img src='<%=request.getContextPath()%>/images/LOGO.png' style="width: 80px;"/>
+			<h1>SemiGitTest</h1>
 		</div>
 					
 			<!-- 로그인 폼 -->

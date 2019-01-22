@@ -18,6 +18,10 @@
         		hello~^MJ^
         		hello~^MJ^2
         	</div>
+        	
+        	<div>
+        		JS
+        	</div>
     	</footer>
 
 

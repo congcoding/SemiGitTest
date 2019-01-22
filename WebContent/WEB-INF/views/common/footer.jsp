@@ -15,6 +15,10 @@
         	<div>
         		MJ
         	</div>
+        	
+        	<div>
+        		JS
+        	</div>
     	</footer>
 
 

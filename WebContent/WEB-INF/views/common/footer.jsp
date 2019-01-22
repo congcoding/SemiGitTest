@@ -12,6 +12,7 @@
         	
         	<div>
         		MJ
+        		hello~^MJ^
         	</div>
     	</footer>
 

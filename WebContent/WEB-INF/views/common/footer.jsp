@@ -4,10 +4,12 @@
 		<footer>
         	<div>
         		JW
+        		Hello JW
         	</div>
         	
         	<div>
         		JE
+        		Hello JE
         	</div>
         	
         	<div>

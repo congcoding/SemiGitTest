@@ -1,5 +1,3 @@
-<!-- 애들아 안뇽..? -->
-
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <%@ page import="semi.kh.product.model.vo.*, java.util.*" %>
